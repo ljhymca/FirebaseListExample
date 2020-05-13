@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695885313585",
+    "firebase_url": "https://fir-listexample-f0e20.firebaseio.com",
+    "project_id": "fir-listexample-f0e20",
+    "storage_bucket": "fir-listexample-f0e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695885313585:android:326c88972d981141040710",
+        "android_client_info": {
+          "package_name": "org.techtown.firebaselistexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695885313585-slrrmhugnmdgdjari7g08afshk4luliv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtEJOk6Gw7_FsMh7ToxvQgIvDEpnVAjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695885313585-slrrmhugnmdgdjari7g08afshk4luliv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
